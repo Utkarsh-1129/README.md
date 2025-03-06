@@ -4,7 +4,7 @@
 📍 Kanpur, Uttar Pradesh, India |  ✉️ [utkarshtrivedi12d@gmail.com](mailto:utkarshtrivedi12d@gmail.com)  
 
 ## **🚀 PROFESSIONAL SUMMARY**  
-Aspiring **Software Developer** with a strong foundation in **computer science and engineering**. Skilled in **C, C++, Java, and Python**, with a keen interest in **Data Structures, Algorithms, and AI-driven applications**. Passionate about building **efficient, scalable, and innovative software solutions** in a dynamic environment.  
+Aspiring **Software Developer** with a strong foundation in **computer science and engineering**. Skilled in **JAVA**, with a keen interest in **Data Structures, Algorithms, and AI-driven applications**. Passionate about building **efficient, scalable, and innovative software solutions** in a dynamic environment.  
 
 ---
 
