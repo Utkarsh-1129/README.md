@@ -1,7 +1,7 @@
 ---
+![image](https://github.com/user-attachments/assets/c54a5624-b854-44dc-80b4-f1888c6a7aa4)
 
-# **UTKARSH TRIVEDI**  
-📍 Kanpur, Uttar Pradesh, India |  ✉️ [utkarshtrivedi12d@gmail.com](mailto:utkarshtrivedi12d@gmail.com)  
+
 
 ## **🚀 PROFESSIONAL SUMMARY**  
 Aspiring **Software Developer** with a strong foundation in **computer science and engineering**. Skilled in **JAVA**, with a keen interest in **Data Structures, Algorithms, and AI-driven applications**. Passionate about building **efficient, scalable, and innovative software solutions** in a dynamic environment.  
