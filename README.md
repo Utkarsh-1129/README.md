@@ -10,13 +10,7 @@ Aspiring **Software Developer** with a strong foundation in **computer science a
 
 ## **🎓 EDUCATION**  
 **B.Tech in Computer Science and Engineering**  
-📍 *Maharana Pratap Engineering College, AKTU* | *2022 – Present* | **GPA: 7.92 (Current)**  
-
-**Intermediate (CBSE)**  
-📍 *JNVM Inter College* | *2021 – 2022* | **79.8%**  
-
-**High School (UP Board)**  
-📍 *SS Inter College* | *2019 – 2020* | **83.16%**  
+📍 *Maharana Pratap Engineering College, AKTU* | *2022 – 2026* 
 
 ---
 
