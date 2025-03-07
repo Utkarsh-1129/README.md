@@ -48,8 +48,10 @@ Aspiring **Software Developer** with a strong foundation in **computer science a
 ---
 
 ## **📜 CERTIFICATIONS**  
+✅ **[Fundamentals of Java Programming - Board Infinity](https://www.coursera.org/account/accomplishments/records/7DBXDCYEQ0W4)**
 ✅ **[Python Essentials 1 - Cisco Networking Academy](http://www.credly.com/badges/426283f8-b4b7-4657-ab6e-c20cde15b6c4)**  
-✅ **[Web Development Fundamentals - IBM SkillsBuild](http://www.credly.com/badges/621a9d4d-a301-4144-a3b6-55fe2ba8fd39/public_url)**  
+✅ **[Web Development Fundamentals - IBM SkillsBuild](http://www.credly.com/badges/621a9d4d-a301-4144-a3b6-55fe2ba8fd39/public_url)** 
+
 
 ---
 
