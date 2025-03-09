@@ -17,7 +17,7 @@ Aspiring **Software Developer** with a strong foundation in **computer science a
 
 ## **💼 VIRTUAL INTERNSHIP EXPERIENCE**  
 **Google Cloud Generative AI - SmartInterz** *(Sept 2024 - Oct 2024)*  
-- Successfully completed a **Google Cloud Generative AI** virtual internship.  
+- Successfully completed a **Google Cloud Generative AI Tools** virtual internship.  
 - Gained hands-on experience in **Cloud tools, Vertex AI, Prompt Engineering, and NLP**.  
 - **Certificate:** [SmartInternz SkillWallet](https://skillwallet.smartinternz.com/certificate/virtual-internship/250473494b245120a7eaf8b2e6b1f17c)  
 
