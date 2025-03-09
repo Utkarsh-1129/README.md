@@ -64,7 +64,6 @@ Aspiring **Software Developer** with a strong foundation in **computer science a
 
 ## **🤝 LET'S CONNECT!**  
 🔗 **LinkedIn:** [utkarsh-trivedi](https://www.linkedin.com/in/utkarsh-trivedi-78b539246)  
-👨‍💻 **GitHub:** [Utkarsh-1129](https://github.com/Utkarsh-1129)  
 🏆 **LeetCode:** [Utkarsh_1129](https://leetcode.com/Utkarsh_1129)  
 🎯 **HackerRank:** [Utkarsh_1129](https://www.hackerrank.com/profile/Utkarsh_1129)  
 
