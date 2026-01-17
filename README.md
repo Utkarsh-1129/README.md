@@ -131,10 +131,9 @@ Console-based reservation system
 ## 📊 **CODING STATS**
 
 <div align="center">
-
-<a href="https://leetcode.com/Utkarsh_1129">
-  <img src="https://leetcard.jacoblin.cool/Utkarsh_1129?theme=dark&font=Ubuntu" alt="LeetCode Stats"/>
-</a>
+    <a href="https://leetcode.com/Utkarsh_1129">
+      <img src="https://leetcard.jacoblin.cool/Utkarsh_1129?theme=dark&font=Ubuntu" alt="LeetCode Stats"/>
+    </a>
 
 <br><br>
 
